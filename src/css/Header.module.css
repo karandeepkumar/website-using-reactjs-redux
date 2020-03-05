@@ -1,0 +1,26 @@
+/*Header Section*/
+*{  padding: 0; margin: 0; box-sizing: border-box; }
+.header{
+height: 180px;
+background-color: #adad85;
+text-align: center;
+	
+}
+.heading{
+	font-family: 'Lobster', cursive;
+	font-size:55px;
+
+}
+.heading:hover{
+	transform: rotate(30deg);
+}
+.subheading{
+	font-family: 'Merriweather', serif;
+	font-size: 35px;
+}
+.subheading:hover{
+	font-size: 45px;
+	transition-duration: 2s;
+}
+
+
